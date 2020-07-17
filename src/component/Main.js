@@ -10,7 +10,7 @@ export const Main = () => {
   useEffect(() => {
     var sceneryFrames = [
       { transform: "translateX(100%)" },
-      { transform: "translateX(-100%)" },
+      { transform: "translateX(-40%)" },
     ];
 
     var sceneryTimingBackground = {
@@ -153,11 +153,6 @@ export const Main = () => {
         <img
           id="r_knight"
           src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/r_knight_small.png"
-          alt=" "
-        />
-        <img
-          id="palm2"
-          src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/palm2_small.png"
           alt=" "
         />
       </div>
