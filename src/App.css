@@ -1,7 +1,12 @@
 .App {
   text-align: center;
 }
-
+.Shape {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
